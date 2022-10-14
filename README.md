@@ -1,5 +1,5 @@
 
-# Getting Started with Git
+# Getting Started with Github
 
 ## Introduction 
 As you now know, Git is a version control system. The Learn platform at Flatiron school has a deep integration with Git and GitHub. GitHub is an online hosting platform that uses Git. We need to teach you just enough Git to interact with GitHub like a real developer. While you can run Python notebooks on the Learn platform itself, you'll also want to be able to download material to your local computer so you can work on it there.
